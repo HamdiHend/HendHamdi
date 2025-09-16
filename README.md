@@ -5,6 +5,7 @@
 📚 Currently **seeking a Final Year Project (PFE) / Internship** opportunity to apply my skills and contribute to innovative solutions.  
 🌐 Portfolio: [my-portfolio-jet-eight-47.vercel.app](https://my-portfolio-jet-eight-47.vercel.app/)  
 🔗 LinkedIn: [Hend Hamdi](https://www.linkedin.com/in/hend-hamdi-6a9934243/) 
+
 📫 Reach me at: **hamdi.hend@etudiant-isi.utm.tn**  
 
 ---
